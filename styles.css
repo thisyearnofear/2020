@@ -13,7 +13,9 @@ body {
   margin: auto;
 }
 
-/* Other CSS rules */
+body {
+  text-align: center;
+}
 
 @media only screen and (max-width: 600px) {
   body {
